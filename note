@@ -1,0 +1,5 @@
+Machine learning experimentation is the process of designing, building, logging, and evaluating a machine learning pipeline to identify the model that achieves a desired performance in terms of a given metric or metrics, e.g., F1 score, RMSE, etc. It is a crucial step in developing machine learning models both prior to deployment and as part of retraining. Just like any other experiment, it should be designed to:
+
+- Be repeatable
+- Minimize bias
+- Track all required files and artifacts
